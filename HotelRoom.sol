@@ -15,7 +15,7 @@ contract HotelRoom {
     Statuses currentStatus;
 
     // constructor is the fuinction that gets called whenever this smart contract is created
-    // or deployed to the blockchain
+    // or deployed to the blockchain...it is ran once & only once
     constructor() public {
         // msg.sender is always the user that is calling this function
         owner = msg.sender;
