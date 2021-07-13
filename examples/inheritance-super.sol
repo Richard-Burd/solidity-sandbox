@@ -9,11 +9,10 @@ contract A {
 
   function bar() public {
     emit MyLogEvent("A's bar func");
-    super.bar();
   }
 }
 
-contract B is A  X, Y, Z {
+contract B is A {
   function foo() public {
     emit MyLogEvent("B.foo called");
     A.foo();
