@@ -36,7 +36,7 @@ contract Base {
 }
 
 contract Child is Base {
-  function testInternalFunc() public pure returns (string memory) {
+  function testInheritedFunc() public pure returns (string memory) {
     return internalFunc();
   }
 }
