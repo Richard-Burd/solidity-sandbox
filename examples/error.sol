@@ -1,4 +1,4 @@
-pragma solidity ^0.8.0;
+pragma solidity ^0.5.11;
 
 contract Account {
   uint public balance;
@@ -23,5 +23,4 @@ contract Account {
     balance -= _amount;
     assert(balance <= oldBalance);
   }
-
 }
