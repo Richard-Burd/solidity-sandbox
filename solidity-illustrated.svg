@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   sodipodi:docname="Solidity Illustrated.27.svg"
+   sodipodi:docname="Solidity Illustrated.28.svg"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    id="svg8"
    version="1.1"
@@ -17454,6 +17454,49 @@
          id="path14974-79-2-9-2-0-94-6-4-40-22-6-8-7-8-4-0-4-3-9-3-9-9-6-4-7-9-3-5-4-7-6-4-9-1-5-2-4-4-5-9-14"
          inkscape:connector-curvature="0" />
     </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart-5-1-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path98324-8-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart-5-1-7-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path98324-8-3-8" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mstart-0-8-8-6-3-7-6-5-6-8-0-6-8-8-2-4-3-99-6-2-2-5-9-0-9-5-31-7-3-1-8-4-6-8-3-8-2-4-4-43"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#f4ff00;fill-opacity:1;fill-rule:evenodd;stroke:#f4ff00;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path14974-79-2-9-2-0-94-6-4-40-22-6-8-7-8-4-0-4-3-9-3-9-9-6-4-7-9-3-5-4-7-6-4-5-3-7-3-2-4-0-34"
+         inkscape:connector-curvature="0" />
+    </marker>
   </defs>
   <sodipodi:namedview
      inkscape:window-maximized="1"
@@ -24315,19 +24358,19 @@
        transform="translate(-11.509375,-3.571875)"><tspan
          x="125.93442"
          y="225.05696"
-         id="tspan29697"><tspan
+         id="tspan25223"><tspan
            style="line-height:100%;text-align:center;letter-spacing:0.351904px;text-anchor:middle"
-           id="tspan29695">not </tspan></tspan><tspan
+           id="tspan25221">not </tspan></tspan><tspan
          x="125.93442"
          y="229.05173"
-         id="tspan29701"><tspan
+         id="tspan25227"><tspan
            style="line-height:100%;text-align:center;letter-spacing:0.351904px;text-anchor:middle"
-           id="tspan29699">enough </tspan></tspan><tspan
+           id="tspan25225">enough </tspan></tspan><tspan
          x="125.93442"
          y="233.0465"
-         id="tspan29705"><tspan
+         id="tspan25231"><tspan
            style="line-height:100%;text-align:center;letter-spacing:0.351904px;text-anchor:middle"
-           id="tspan29703">gas</tspan></tspan></text>
+           id="tspan25229">gas</tspan></tspan></text>
     <path
        style="fill:url(#linearGradient3310);fill-opacity:1;stroke:none;stroke-width:0.525674px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 102.77775,180.0756 4e-4,-0.59311 0.96163,7e-5 -3.10584,-1.49737 -3.108967,1.49687 0.96169,6e-5 -4.1e-4,0.59312 z"
@@ -25809,9 +25852,9 @@
        transform="translate(-35.92523,26.442537)"><tspan
          x="125.93442"
          y="225.05696"
-         id="tspan29709"><tspan
+         id="tspan25235"><tspan
            style="line-height:100%;text-align:center;letter-spacing:0.351904px;text-anchor:middle"
-           id="tspan29707">computations</tspan></tspan></text>
+           id="tspan25233">computations</tspan></tspan></text>
     <text
        inkscape:export-ydpi="302.28201"
        inkscape:export-xdpi="302.28201"
@@ -25824,9 +25867,9 @@
        transform="translate(-58.172606,116.85604)"><tspan
          x="125.93442"
          y="225.05696"
-         id="tspan29713"><tspan
+         id="tspan25239"><tspan
            style="line-height:100%;text-align:center;letter-spacing:0.351904px;text-anchor:middle"
-           id="tspan29711">time</tspan></tspan></text>
+           id="tspan25237">time</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.66864px;line-height:1.51246px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold Italic';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0.033403px;word-spacing:0px;text-anchor:start;display:inline;fill:#95955f;fill-opacity:1;stroke:none;stroke-width:0.114333"
@@ -27855,9 +27898,9 @@
        transform="translate(22.096067,-42.984764)"><tspan
          x="125.93442"
          y="225.05696"
-         id="tspan29717"><tspan
+         id="tspan25243"><tspan
            style="line-height:100%;text-align:center;letter-spacing:0.351904px;text-anchor:middle"
-           id="tspan29715">destructuring assignments</tspan></tspan></text>
+           id="tspan25241">destructuring assignments</tspan></tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot2729-3-8-1-5-6-4-4-4-8-5-29-3-6-2-9-1-6-7-0-9-1-2-1-0-9-0-0"
@@ -29775,9 +29818,9 @@
        transform="translate(101.29926,-20.679141)"><tspan
          x="125.93442"
          y="225.05696"
-         id="tspan29721"><tspan
+         id="tspan25247"><tspan
            style="line-height:100%;text-align:center;letter-spacing:0.351904px;text-anchor:middle"
-           id="tspan29719">reentrancy guard</tspan></tspan></text>
+           id="tspan25245">reentrancy guard</tspan></tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot2729-3-8-1-5-6-4-4-4-8-5-29-3-6-2-9-1-6-7-0-9-1-2-1-0-9-0-9-7-3-1-0-0"
@@ -35914,7 +35957,7 @@
        transform="translate(195.92627,40.628635)"><tspan
          x="125.93442"
          y="225.05696"
-         id="tspan29723">depth first</tspan></text>
+         id="tspan25249">depth first</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path4602-1-1-9-0-1-4-3-8-2-6-3-1-5-7-9-1-3-3-2-44-2-6-4-9-1-5-4-9-8-8-9-8-96-6-7-7-19-4-4-3-3-2-8-9-6-93-9-4-0-8-34-8-0-3-2-46-9-5-3-4-8-4-0-5-6-47-1-6-0-3-0-6-3-2-8-6-9-8-5-2-9-3-1-6-4-4-1-0-44-8-2-3-5-1-7-1-4-6-3-4-3-5-2-5-8-2-3-0-4-3-5-9-1-3-8-0-0-2-3-5"
@@ -35999,7 +36042,7 @@
        transform="translate(201.85346,106.12875)"><tspan
          x="125.93442"
          y="225.05696"
-         id="tspan29725">emit</tspan></text>
+         id="tspan25251">emit</tspan></text>
     <text
        inkscape:export-ydpi="302.28201"
        inkscape:export-xdpi="302.28201"
@@ -36012,7 +36055,7 @@
        transform="translate(136.67956,175.66347)"><tspan
          x="125.93442"
          y="225.05696"
-         id="tspan29727">emit</tspan></text>
+         id="tspan25253">emit</tspan></text>
     <text
        inkscape:export-ydpi="302.28201"
        inkscape:export-xdpi="302.28201"
@@ -36025,7 +36068,7 @@
        transform="translate(118.59273,151.82561)"><tspan
          x="125.93442"
          y="225.05696"
-         id="tspan29729">super</tspan></text>
+         id="tspan25255">super</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot2729-3-8-1-5-6-4-4-4-8-5-29-3-6-2-9-1-6-7-0-9-1-2-3-2-2-1-00"
@@ -43256,7 +43299,7 @@
            width="1257.3716"
            id="rect133-7-9-6-4" /></flowRegion><flowPara
          id="flowPara139-5-0-0-4"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.6098px;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:4.58696">last updated @ 10:31am on 26/July/2021 by Richard Burd</flowPara></flowRoot>
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.6098px;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:4.58696">last updated @ 12:59pm on 26/July/2021 by Richard Burd</flowPara></flowRoot>
     <text
        inkscape:transform-center-y="-3.9467557e-05"
        inkscape:export-ydpi="302.28201"
@@ -44277,7 +44320,7 @@
        transform="translate(269.93616,-12.630589)"><tspan
          x="125.93442"
          y="225.05696"
-         id="tspan29731">external</tspan></text>
+         id="tspan25257">external</tspan></text>
     <text
        inkscape:export-ydpi="302.28201"
        inkscape:export-xdpi="302.28201"
@@ -44290,7 +44333,7 @@
        transform="translate(269.69728,7.6379608)"><tspan
          x="125.93442"
          y="225.05696"
-         id="tspan29733">private</tspan></text>
+         id="tspan25259">private</tspan></text>
     <text
        inkscape:export-ydpi="302.28201"
        inkscape:export-xdpi="302.28201"
@@ -44303,7 +44346,7 @@
        transform="translate(271.1829,-7.1465792)"><tspan
          x="125.93442"
          y="225.05696"
-         id="tspan29735">public</tspan></text>
+         id="tspan25261">public</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path4602-1-1-9-0-1-4-3-8-2-6-3-1-5-7-9-1-3-3-2-44-2-6-4-9-1-5-4-9-8-8-9-8-96-6-7-7-19-4-4-3-3-2-8-9-6-93-9-4-0-8-34-8-0-3-2-46-9-5-3-4-8-4-0-5-6-47-1-6-0-3-0-6-3-2-8-6-9-8-5-2-9-3-1-6-4-4-1-0-4-7-8-0-3-7-6-1-8-8-1-3-0-8-5-7-5-4-7-9-2-1-7-0-3-7-9-9-1-1-1-5-6-7-8-4-7-6-6-0-7-1-3-7-9-6-9-7-2-2"
@@ -44840,7 +44883,7 @@
        transform="translate(266.9886,19.175691)"><tspan
          x="125.93442"
          y="225.05696"
-         id="tspan29737">internal</tspan></text>
+         id="tspan25263">internal</tspan></text>
     <text
        inkscape:transform-center-y="-3.1029997e-05"
        inkscape:export-ydpi="302.28201"
@@ -45815,9 +45858,9 @@
        transform="translate(241.81832,87.83004)"><tspan
          x="125.93442"
          y="225.05696"
-         id="tspan29741"><tspan
+         id="tspan25267"><tspan
            style="line-height:100%;text-align:center;letter-spacing:0.351904px;text-anchor:middle"
-           id="tspan29739">indexed</tspan></tspan></text>
+           id="tspan25265">indexed</tspan></tspan></text>
     <rect
        inkscape:export-ydpi="302.28201"
        inkscape:export-xdpi="302.28201"
@@ -46478,14 +46521,14 @@
        transform="matrix(1.37172,0,0,1.37172,78.524227,-28.892094)"><tspan
          x="201.08772"
          y="232.46123"
-         id="tspan29745"><tspan
+         id="tspan25271"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan29743">Smart </tspan></tspan><tspan
+           id="tspan25269">Smart </tspan></tspan><tspan
          x="201.08772"
          y="233.9737"
-         id="tspan29749"><tspan
+         id="tspan25275"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan29747">Contract</tspan></tspan></text>
+           id="tspan25273">Contract</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.66864px;line-height:1.51246px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold Italic';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0.033403px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:6.6902;display:inline;fill:#554400;fill-opacity:1;stroke:none;stroke-width:0.114333"
@@ -46498,7 +46541,7 @@
        transform="matrix(1.37172,0,0,1.37172,96.999068,-26.108364)"><tspan
          x="201.08772"
          y="232.46123"
-         id="tspan29751">App</tspan></text>
+         id="tspan25277">App</tspan></text>
     <ellipse
        style="fill:#b9db9b;fill-opacity:1;stroke:#508978;stroke-width:0.196061;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        id="path4771-0-2-0-8-3-2-7-7-4-7-9"
@@ -46525,7 +46568,7 @@
        transform="matrix(1.37172,0,0,1.37172,83.714055,-16.558247)"><tspan
          x="201.08772"
          y="232.46123"
-         id="tspan29753">event</tspan></text>
+         id="tspan25279">event</tspan></text>
     <ellipse
        style="fill:#9bd3db;fill-opacity:1;stroke:#506f89;stroke-width:0.196061;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        id="path4771-0-2-0-8-3-2-7-7-4-7-4"
@@ -46545,7 +46588,7 @@
        transform="matrix(1.37172,0,0,1.37172,95.83672,-5.6297408)"><tspan
          x="201.08772"
          y="232.46123"
-         id="tspan29755">logs</tspan></text>
+         id="tspan25281">logs</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path4602-1-1-9-0-1-4-3-8-2-6-3-1-5-7-9-1-3-3-2-44-2-6-4-9-1-5-4-9-8-8-9-8-96-6-7-7-19-4-4-3-3-2-8-9-6-93-9-4-0-8-34-8-0-3-2-46-9-5-3-4-8-4-0-5-6-47-1-6-0-3-0-6-3-2-8-6-9-8-5-2-9-3-1-6-4-4-1-0-44-8-2-3-5-1-7-1-4-6-3-4-3-5-2-5-8-2-3-0-4-2-8-9-2-7-8-9"
@@ -49425,22 +49468,6 @@
        inkscape:export-xdpi="302.28201"
        inkscape:export-filename="C:\Users\Richard Burd\Desktop\bitmap.png"
        inkscape:transform-center-x="4.7638461"
-       id="text3154-1-3-6-9-5-0-9-1-16-5-8-9-1-6-1-5-3-1-4-1-2-1-4-7-0-8-1-7-1-5-0-6-0-98-6-0-8-5-2-5-9-6-0-0-5-9-8-6-0-7-7-59-7-9-7-3-2-2-4-8-8-9-7-1-8-2-5-2-3-8-31-8-3-9-9-0-1-2-8-2-8-7-46-8-3-0-3-8-6-3-5-1-0-1-2-9-5-3-5-6-1-1-0-6-0-8-8-2-23-5-9-7"
-       y="117.0717"
-       x="426.70386"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.16417px;line-height:0%;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.16417px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-         y="117.0717"
-         x="426.70386"
-         sodipodi:role="line"
-         id="tspan11967-1-7-06">0: string: foo</tspan></text>
-    <text
-       inkscape:transform-center-y="-3.9467557e-05"
-       inkscape:export-ydpi="302.28201"
-       inkscape:export-xdpi="302.28201"
-       inkscape:export-filename="C:\Users\Richard Burd\Desktop\bitmap.png"
-       inkscape:transform-center-x="4.7638461"
        id="text3154-1-3-6-9-5-0-9-1-16-5-8-9-1-6-1-5-3-1-4-1-2-1-4-7-0-8-1-7-1-5-0-6-0-98-6-0-8-5-2-5-9-6-0-0-5-9-8-6-0-7-7-59-7-9-7-3-2-2-4-8-8-9-7-1-8-2-5-2-3-8-31-8-3-9-9-0-1-2-8-2-8-7-46-8-3-0-3-8-6-3-5-1-0-1-2-9-5-3-5-6-1-1-0-6-0-8-8-2-6-5-7-9-9"
        y="121.18675"
        x="426.70386"
@@ -49541,22 +49568,6 @@
          x="463.40829"
          sodipodi:role="line"
          id="tspan7501-2-0-2-8-7-0-5-3-0-6-6-6-1-2-6-7">Debug</tspan></text>
-    <text
-       inkscape:transform-center-y="-3.9467557e-05"
-       inkscape:export-ydpi="302.28201"
-       inkscape:export-xdpi="302.28201"
-       inkscape:export-filename="C:\Users\Richard Burd\Desktop\bitmap.png"
-       inkscape:transform-center-x="4.7638461"
-       id="text3154-1-3-6-9-5-0-9-1-16-5-8-9-1-6-1-5-3-1-4-1-2-1-4-7-0-8-1-7-1-5-0-6-0-98-6-0-8-5-2-5-9-6-0-0-5-9-8-6-0-7-7-59-7-9-7-3-2-2-4-8-8-9-7-1-8-2-5-2-3-8-31-8-3-9-9-0-1-2-8-2-8-7-46-8-3-0-3-8-6-3-5-1-0-1-2-9-5-3-5-6-1-1-0-6-1-5-3-8-4-6-5-2"
-       y="108.67616"
-       x="423.88208"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.16417px;line-height:0%;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.16417px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-         y="108.67616"
-         x="423.88208"
-         sodipodi:role="line"
-         id="tspan7501-2-0-5-9-4-6-6-9-3-5">DEPLOY &amp; RUN TRANSACTIONS</tspan></text>
     <circle
        style="fill:#ffeb9f;fill-opacity:1;stroke:none;stroke-width:0.196061;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        id="path4771-0-2-0-8-3-2-7-1-8-5-0-2-0"
@@ -49932,9 +49943,9 @@
        transform="translate(316.27077,-190.48243)"><tspan
          x="125.93442"
          y="225.05696"
-         id="tspan29759"><tspan
+         id="tspan25285"><tspan
            style="line-height:100%;text-align:center;letter-spacing:0.351904px;text-anchor:middle"
-           id="tspan29757">require</tspan></tspan></text>
+           id="tspan25283">require</tspan></tspan></text>
     <text
        inkscape:export-ydpi="302.28201"
        inkscape:export-xdpi="302.28201"
@@ -49947,9 +49958,9 @@
        transform="translate(317.30325,-182.60478)"><tspan
          x="125.93442"
          y="225.05696"
-         id="tspan29763"><tspan
+         id="tspan25289"><tspan
            style="line-height:100%;text-align:center;letter-spacing:0.351904px;text-anchor:middle"
-           id="tspan29761">revert</tspan></tspan></text>
+           id="tspan25287">revert</tspan></tspan></text>
     <text
        inkscape:export-ydpi="302.28201"
        inkscape:export-xdpi="302.28201"
@@ -49962,9 +49973,9 @@
        transform="matrix(0.76418498,0,0,0.76418498,344.7831,-106.51129)"><tspan
          x="125.93442"
          y="225.05696"
-         id="tspan29767"><tspan
+         id="tspan25293"><tspan
            style="line-height:100%;text-align:center;letter-spacing:0.351904px;text-anchor:middle"
-           id="tspan29765">overflow</tspan></tspan></text>
+           id="tspan25291">overflow</tspan></tspan></text>
     <text
        inkscape:export-ydpi="302.28201"
        inkscape:export-xdpi="302.28201"
@@ -49977,9 +49988,9 @@
        transform="translate(317.2319,-196.93632)"><tspan
          x="125.93442"
          y="225.05696"
-         id="tspan29771"><tspan
+         id="tspan25297"><tspan
            style="line-height:100%;text-align:center;letter-spacing:0.351904px;text-anchor:middle"
-           id="tspan29769">assert</tspan></tspan></text>
+           id="tspan25295">assert</tspan></tspan></text>
     <circle
        style="fill:#88783d;fill-opacity:1;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
        id="path204436-2-1"
@@ -50228,7 +50239,7 @@
            width="37.483154"
            id="rect2733-2-7-2-4-8-9-5-1-0-0-8-1-7-2-9-0-9-0-4-9-6-3-3-9-30-5-2-0-3-8-3-1-7" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.47333px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';text-align:end;text-anchor:end;fill:#504416;fill-opacity:1;stroke-width:1.17314"
-         id="flowPara16575-6">assert</flowPara><flowPara
+         id="flowPara16575-6">assert -</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.47333px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';text-align:end;text-anchor:end;fill:#504416;fill-opacity:1;stroke-width:1.17314"
          id="flowPara58368" /></flowRoot>
     <flowRoot
@@ -50252,7 +50263,7 @@
     <flowRoot
        inkscape:export-ydpi="691.76337"
        inkscape:export-xdpi="691.76337"
-       transform="matrix(0.22436099,0,0,0.22671089,-119.31781,-85.15295)"
+       transform="matrix(0.22436099,0,0,0.22671089,-120.29458,-85.15295)"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.87853px;line-height:1.23;font-family:'MV Boli';-inkscape-font-specification:'MV Boli Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#504416;fill-opacity:1;stroke:none;stroke-width:1.17314"
        id="flowRoot2729-3-8-1-5-6-4-4-4-8-5-29-3-6-2-9-1-6-7-3-7-4-6-4-0-5-4-1-3-6-8-2-6-7-0"
        xml:space="preserve"
@@ -50263,10 +50274,10 @@
            y="533.89655"
            x="2413.7483"
            height="7.6652222"
-           width="37.483158"
+           width="41.834793"
            id="rect2733-2-7-2-4-8-9-5-1-0-0-8-1-7-2-9-0-9-0-4-9-6-3-3-9-30-5-2-0-3-8-3-1-7-62" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.47333px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';text-align:end;text-anchor:end;fill:#504416;fill-opacity:1;stroke-width:1.17314"
-         id="flowPara58368-5"> require</flowPara></flowRoot>
+         id="flowPara58368-5"> require -</flowPara></flowRoot>
     <flowRoot
        inkscape:export-ydpi="691.76337"
        inkscape:export-xdpi="691.76337"
@@ -50290,7 +50301,7 @@
     <flowRoot
        inkscape:export-ydpi="691.76337"
        inkscape:export-xdpi="691.76337"
-       transform="matrix(0.22436099,0,0,0.22671089,-119.31781,-77.53905)"
+       transform="matrix(0.22436099,0,0,0.22671089,-119.31826,-77.53905)"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.87853px;line-height:1.23;font-family:'MV Boli';-inkscape-font-specification:'MV Boli Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#504416;fill-opacity:1;stroke:none;stroke-width:1.17314"
        id="flowRoot2729-3-8-1-5-6-4-4-4-8-5-29-3-6-2-9-1-6-7-3-7-4-6-4-0-5-4-1-3-6-8-2-6-7-07"
        xml:space="preserve"
@@ -50304,7 +50315,7 @@
            width="37.483158"
            id="rect2733-2-7-2-4-8-9-5-1-0-0-8-1-7-2-9-0-9-0-4-9-6-3-3-9-30-5-2-0-3-8-3-1-7-2" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.47333px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';text-align:end;text-anchor:end;fill:#504416;fill-opacity:1;stroke-width:1.17314"
-         id="flowPara58368-9">revert</flowPara></flowRoot>
+         id="flowPara58368-9">revert -</flowPara></flowRoot>
     <circle
        style="fill:#88783d;fill-opacity:1;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
        id="path204436"
@@ -50369,9 +50380,9 @@
        transform="matrix(0.76418498,0,0,0.76418498,347.04439,-81.780327)"><tspan
          x="125.93442"
          y="225.05696"
-         id="tspan29775"><tspan
+         id="tspan25301"><tspan
            style="line-height:100%;text-align:center;letter-spacing:0.351904px;text-anchor:middle"
-           id="tspan29773">underflow</tspan></tspan></text>
+           id="tspan25299">underflow</tspan></tspan></text>
     <g
        id="g146778"
        style="opacity:0.5"
@@ -50410,6 +50421,58 @@
          inkscape:export-ydpi="302.28201"
          inkscape:export-filename="C:\Users\Richard Burd\Desktop\bitmap.png" />
     </g>
+    <g
+       id="g146778-7"
+       style="opacity:0.5"
+       transform="translate(149.2424,-62.912748)">
+      <rect
+         inkscape:export-ydpi="393.30408"
+         inkscape:export-xdpi="393.30408"
+         rx="0.6522429"
+         style="display:inline;opacity:1;fill:#ffbe57;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.137599;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect7525-1-9-7-4-7-3-5-7-0-6-6-7-9-6-3-2-0-2-6-3-8-2-0-1-3-2-7-7-9-7-4-0-77-4-8-3-3-1-0-6-9-27-2-6-6-2-9-3-3-6"
+         width="8.8035126"
+         height="1.5576106"
+         x="306.30133"
+         y="158.20732"
+         ry="0.65224296"
+         inkscape:export-filename="C:\Users\Richard Burd\Desktop\bitmap.png" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4602-1-1-9-0-1-4-3-8-2-6-3-1-5-7-9-1-3-3-2-44-2-6-4-9-1-5-4-9-8-8-9-8-96-6-7-7-19-4-4-3-3-2-8-9-6-93-9-4-0-8-34-8-0-3-2-46-9-5-3-4-8-4-0-5-6-47-1-6-0-3-0-6-3-2-8-6-9-8-5-2-9-3-1-6-4-4-1-0-4-7-8-0-3-7-6-1-8-8-1-3-0-8-5-7-5-4-7-9-2-1-7-0-3-7-9-9-1-1-1-5-6-7-8-4-7-6-6-2-4-4-1-9-7-4-2-0-6-8-0"
+         d="m 323.19867,165.98557 c -8.90517,1.0848 -12.06996,-4.24502 -12.06996,-6.41466"
+         style="display:inline;fill:none;stroke:#ffbe57;stroke-width:0.149;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Mstart-5-1-7);marker-end:none"
+         sodipodi:nodetypes="cc"
+         inkscape:export-xdpi="302.28201"
+         inkscape:export-ydpi="302.28201"
+         inkscape:export-filename="C:\Users\Richard Burd\Desktop\bitmap.png" />
+    </g>
+    <g
+       id="g146778-7-4"
+       style="opacity:0.5"
+       transform="translate(143.16313,-60.528863)">
+      <rect
+         inkscape:export-ydpi="393.30408"
+         inkscape:export-xdpi="393.30408"
+         rx="0.6522429"
+         style="display:inline;opacity:1;fill:#5790ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.137598;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect7525-1-9-7-4-7-3-5-7-0-6-6-7-9-6-3-2-0-2-6-3-8-2-0-1-3-2-7-7-9-7-4-0-77-4-8-3-3-1-0-6-9-27-2-6-6-2-9-3-3-6-8"
+         width="14.697701"
+         height="1.5576106"
+         x="306.30133"
+         y="158.20732"
+         ry="0.65224296"
+         inkscape:export-filename="C:\Users\Richard Burd\Desktop\bitmap.png" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4602-1-1-9-0-1-4-3-8-2-6-3-1-5-7-9-1-3-3-2-44-2-6-4-9-1-5-4-9-8-8-9-8-96-6-7-7-19-4-4-3-3-2-8-9-6-93-9-4-0-8-34-8-0-3-2-46-9-5-3-4-8-4-0-5-6-47-1-6-0-3-0-6-3-2-8-6-9-8-5-2-9-3-1-6-4-4-1-0-4-7-8-0-3-7-6-1-8-8-1-3-0-8-5-7-5-4-7-9-2-1-7-0-3-7-9-9-1-1-1-5-6-7-8-4-7-6-6-2-4-4-1-9-7-4-2-0-6-8-0-2"
+         d="m 332.16651,153.61862 c -2.89285,-10.08749 -21.54405,-6.41466 -21.54405,4.79515"
+         style="display:inline;fill:none;stroke:#5790ff;stroke-width:0.149;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Mstart-5-1-7-1);marker-end:none"
+         sodipodi:nodetypes="cc"
+         inkscape:export-xdpi="302.28201"
+         inkscape:export-ydpi="302.28201"
+         inkscape:export-filename="C:\Users\Richard Burd\Desktop\bitmap.png" />
+    </g>
     <text
        inkscape:transform-center-y="-3.1029997e-05"
        inkscape:export-ydpi="302.28201"
@@ -50424,57 +50487,57 @@
        transform="translate(148.73054,-77.882655)"><tspan
          x="305.24469"
          y="197.39287"
-         id="tspan29779"><tspan
+         id="tspan25305"><tspan
    style="font-size:0.934791px;line-height:1.25;font-variant-ligatures:none;text-align:start;text-anchor:start"
-   id="tspan29777">transact to Account.deposit errored: VM error:</tspan><tspan
+   id="tspan25303">transact to Account.deposit errored: VM error:</tspan><tspan
    y="197.39287"
-   id="tspan29781"> </tspan></tspan><tspan
+   id="tspan25307"> </tspan></tspan><tspan
          x="305.24469"
          y="198.56136"
-         id="tspan29785"><tspan
+         id="tspan25311"><tspan
            style="font-size:0.934791px;line-height:1.25;font-variant-ligatures:none;text-align:start;text-anchor:start"
-           id="tspan29783">revert.
+           id="tspan25309">revert.
 </tspan></tspan><tspan
          x="305.24469"
          y="199.72984"
-         id="tspan29789"><tspan
+         id="tspan25315"><tspan
            style="font-size:0.934791px;line-height:1.25;font-variant-ligatures:none;text-align:start;text-anchor:start"
-           id="tspan29787">
+           id="tspan25313">
 </tspan></tspan><tspan
          x="305.24469"
          y="200.89833"
-         id="tspan29793"><tspan
+         id="tspan25319"><tspan
            style="font-size:0.934791px;line-height:1.25;font-variant-ligatures:none;text-align:start;text-anchor:start"
-           id="tspan29791">revert
+           id="tspan25317">revert
 </tspan></tspan><tspan
          x="305.24469"
          y="202.06682"
-         id="tspan29799"><tspan
+         id="tspan25325"><tspan
    style="font-size:0.934791px;line-height:1.25;font-variant-ligatures:none;text-align:start;text-anchor:start"
-   id="tspan29795">	</tspan><tspan
+   id="tspan25321">	</tspan><tspan
    style="font-size:0.934791px;line-height:1.25;font-variant-ligatures:none;text-align:start;text-anchor:start"
-   id="tspan29797">The transaction has been reverted to the initial</tspan><tspan
+   id="tspan25323">The transaction has been reverted to the initial</tspan><tspan
    y="202.06682"
-   id="tspan29801"> </tspan></tspan><tspan
+   id="tspan25327"> </tspan></tspan><tspan
          x="305.24469"
          y="203.23531"
-         id="tspan29805"><tspan
+         id="tspan25331"><tspan
    style="font-size:0.934791px;line-height:1.25;font-variant-ligatures:none;text-align:start;text-anchor:start"
-   id="tspan29803">state.  Reason provided by the contract:</tspan><tspan
+   id="tspan25329">state.  Reason provided by the contract:</tspan><tspan
    y="203.23531"
-   id="tspan29807"> </tspan></tspan><tspan
+   id="tspan25333"> </tspan></tspan><tspan
          x="305.24469"
          y="204.40379"
-         id="tspan29811"><tspan
+         id="tspan25337"><tspan
    style="font-size:0.934791px;line-height:1.25;font-variant-ligatures:none;text-align:start;text-anchor:start"
-   id="tspan29809">&quot;Overflow&quot;.Debug the transaction to get more</tspan><tspan
+   id="tspan25335">&quot;Overflow&quot;.Debug the transaction to get more</tspan><tspan
    y="204.40379"
-   id="tspan29813"> </tspan></tspan><tspan
+   id="tspan25339"> </tspan></tspan><tspan
          x="305.24469"
          y="205.57228"
-         id="tspan29817"><tspan
+         id="tspan25343"><tspan
            style="font-size:0.934791px;line-height:1.25;font-variant-ligatures:none;text-align:start;text-anchor:start"
-           id="tspan29815">information.</tspan></tspan></text>
+           id="tspan25341">information.</tspan></tspan></text>
     <g
        id="g137362"
        style="opacity:0.578164"
@@ -50539,30 +50602,30 @@
        transform="translate(148.73054,-64.968018)"><tspan
          x="305.24469"
          y="197.39287"
-         id="tspan29821"><tspan
+         id="tspan25347"><tspan
    style="font-size:0.934791px;line-height:1.25;font-variant-ligatures:none;text-align:start;text-anchor:start"
-   id="tspan29819">The transaction has been reverted to the initial</tspan><tspan
+   id="tspan25345">The transaction has been reverted to the initial</tspan><tspan
    y="197.39287"
-   id="tspan29823"> </tspan></tspan><tspan
+   id="tspan25349"> </tspan></tspan><tspan
          x="305.24469"
          y="198.56136"
-         id="tspan29827"><tspan
+         id="tspan25353"><tspan
    style="font-size:0.934791px;line-height:1.25;font-variant-ligatures:none;text-align:start;text-anchor:start"
-   id="tspan29825">state.  Reason provided by the contract:</tspan><tspan
+   id="tspan25351">state.  Reason provided by the contract:</tspan><tspan
    y="198.56136"
-   id="tspan29829"> </tspan></tspan><tspan
+   id="tspan25355"> </tspan></tspan><tspan
          x="305.24469"
          y="199.72984"
-         id="tspan29833"><tspan
+         id="tspan25359"><tspan
    style="font-size:0.934791px;line-height:1.25;font-variant-ligatures:none;text-align:start;text-anchor:start"
-   id="tspan29831">&quot;Underflow&quot;.Debug the transaction to get more</tspan><tspan
+   id="tspan25357">&quot;Underflow&quot;.Debug the transaction to get more</tspan><tspan
    y="199.72984"
-   id="tspan29835"> </tspan></tspan><tspan
+   id="tspan25361"> </tspan></tspan><tspan
          x="305.24469"
          y="200.89833"
-         id="tspan29839"><tspan
+         id="tspan25365"><tspan
            style="font-size:0.934791px;line-height:1.25;font-variant-ligatures:none;text-align:start;text-anchor:start"
-           id="tspan29837">information.</tspan></tspan></text>
+           id="tspan25363">information.</tspan></tspan></text>
     <flowRoot
        inkscape:export-ydpi="691.76337"
        inkscape:export-xdpi="691.76337"
@@ -50905,32 +50968,16 @@
        inkscape:export-xdpi="393.30408"
        inkscape:export-ydpi="393.30408"
        inkscape:export-filename="C:\Users\Richard Burd\Desktop\bitmap.png" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot2729-3-8-1-5-6-4-4-4-8-5-29-3-6-2-9-1-6-7-0-9-1-2-3-2-2-1-00-2-5-5-5-7"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.87853px;line-height:1.25;font-family:'MV Boli';-inkscape-font-specification:'MV Boli Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#60221f;fill-opacity:1;stroke:none;stroke-width:1.00522"
-       transform="matrix(0.26184087,0,0,0.26458333,-210.81749,-45.988561)"
-       inkscape:export-xdpi="302.28201"
-       inkscape:export-ydpi="302.28201"
-       inkscape:export-filename="C:\Users\Richard Burd\Desktop\bitmap.png"><flowRegion
-         id="flowRegion2731-7-5-4-8-4-3-3-8-8-5-8-8-5-84-0-0-6-2-7-7-7-8-2-0-2-5-6-9-0-1-2-8"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MV Boli';-inkscape-font-specification:'MV Boli Italic';text-align:start;text-anchor:start;fill:#60221f;fill-opacity:1;stroke-width:1.00522"><rect
-           id="rect2733-2-7-2-4-8-9-5-1-0-0-8-1-7-2-9-0-9-0-3-42-57-0-07-5-6-2-1-1-4-0-7-8"
-           width="212.97166"
-           height="57.343243"
-           x="2413.7483"
-           y="533.89655"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MV Boli';-inkscape-font-specification:'MV Boli Italic';text-align:start;text-anchor:start;fill:#60221f;fill-opacity:1;stroke-width:1.00522" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.47333px;line-height:100%;font-family:'MV Boli';-inkscape-font-specification:'MV Boli, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#501616;fill-opacity:1;stroke-width:1.00522"
-         id="flowPara17537-9-7-8-5-5-6-3">If a number is deposited here and</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.47333px;line-height:100%;font-family:'MV Boli';-inkscape-font-specification:'MV Boli, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#501616;fill-opacity:1;stroke-width:1.00522"
-         id="flowPara117849">then the max number is added </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.47333px;line-height:100%;font-family:'MV Boli';-inkscape-font-specification:'MV Boli, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#501616;fill-opacity:1;stroke-width:1.00522"
-         id="flowPara122680">to it, than this error message will be generated; if the </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.47333px;line-height:100%;font-family:'MV Boli';-inkscape-font-specification:'MV Boli, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#501616;fill-opacity:1;stroke-width:1.00522"
-         id="flowPara127178">amount of money withdrawn here is greater than the </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.47333px;line-height:100%;font-family:'MV Boli';-inkscape-font-specification:'MV Boli, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#501616;fill-opacity:1;stroke-width:1.00522"
-         id="flowPara127176">balance here, then this error message will be generated</flowPara></flowRoot>
+    <rect
+       style="display:inline;fill:#f4ff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.137597;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect7525-1-9-7-4-7-3-5-7-0-6-6-7-9-6-3-2-0-2-6-3-8-3-17-7-9-1-1-8-3-9-0-0-9-3-9-0-3-5-9-1-28-9-98"
+       width="4.0091953"
+       height="2.136591"
+       x="444.96786"
+       y="102.12818"
+       inkscape:export-xdpi="393.30408"
+       inkscape:export-ydpi="393.30408"
+       inkscape:export-filename="C:\Users\Richard Burd\Desktop\bitmap.png" />
     <text
        inkscape:transform-center-y="-3.9467557e-05"
        inkscape:export-ydpi="302.28201"
@@ -50989,6 +51036,73 @@
          x="426.70386"
          sodipodi:role="line"
          id="tspan11971-7-8-6">0:</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4602-1-1-9-0-1-4-3-8-2-6-3-1-5-7-9-1-3-3-2-44-2-6-4-9-1-5-4-9-8-8-9-8-96-6-7-7-19-4-4-3-3-2-8-9-6-93-9-4-0-8-34-8-0-3-2-46-9-5-3-4-8-4-0-5-6-47-1-6-0-3-0-6-3-2-8-6-9-8-5-2-9-3-1-6-4-4-1-0-44-8-2-3-5-1-7-1-4-6-3-4-3-5-2-5-8-2-3-0-4-2-8-9-2-7-6"
+       d="m 431.11597,119.01308 c -1.32708,-9.83755 3.43421,-15.85912 14.13266,-15.85912"
+       style="display:inline;fill:none;stroke:#f4ff00;stroke-width:0.149;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Mstart-0-8-8-6-3-7-6-5-6-8-0-6-8-8-2-4-3-99-6-2-2-5-9-0-9-5-31-7-3-1-8-4-6-8-3-8-2-4-4-43);marker-end:none"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="393.30408"
+       inkscape:export-ydpi="393.30408"
+       inkscape:export-filename="C:\Users\Richard Burd\Desktop\bitmap.png" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2729-3-8-1-5-6-4-4-4-8-5-29-3-6-2-9-1-6-7-0-9-1-2-3-2-2-1-00-2-5-5-5-7"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.87853px;line-height:1.25;font-family:'MV Boli';-inkscape-font-specification:'MV Boli Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#60221f;fill-opacity:1;stroke:none;stroke-width:1.00522"
+       transform="matrix(0.26184087,0,0,0.26458333,-210.81749,-45.988561)"
+       inkscape:export-xdpi="302.28201"
+       inkscape:export-ydpi="302.28201"
+       inkscape:export-filename="C:\Users\Richard Burd\Desktop\bitmap.png"><flowRegion
+         id="flowRegion2731-7-5-4-8-4-3-3-8-8-5-8-8-5-84-0-0-6-2-7-7-7-8-2-0-2-5-6-9-0-1-2-8"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MV Boli';-inkscape-font-specification:'MV Boli Italic';text-align:start;text-anchor:start;fill:#60221f;fill-opacity:1;stroke-width:1.00522"><rect
+           id="rect2733-2-7-2-4-8-9-5-1-0-0-8-1-7-2-9-0-9-0-3-42-57-0-07-5-6-2-1-1-4-0-7-8"
+           width="212.97166"
+           height="57.343243"
+           x="2413.7483"
+           y="533.89655"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MV Boli';-inkscape-font-specification:'MV Boli Italic';text-align:start;text-anchor:start;fill:#60221f;fill-opacity:1;stroke-width:1.00522" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.47333px;line-height:100%;font-family:'MV Boli';-inkscape-font-specification:'MV Boli, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#501616;fill-opacity:1;stroke-width:1.00522"
+         id="flowPara17537-9-7-8-5-5-6-3">If a number is deposited here and</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.47333px;line-height:100%;font-family:'MV Boli';-inkscape-font-specification:'MV Boli, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#501616;fill-opacity:1;stroke-width:1.00522"
+         id="flowPara117849">then the max number is added </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.47333px;line-height:100%;font-family:'MV Boli';-inkscape-font-specification:'MV Boli, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#501616;fill-opacity:1;stroke-width:1.00522"
+         id="flowPara122680">to it, than this error message will be generated; if the </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.47333px;line-height:100%;font-family:'MV Boli';-inkscape-font-specification:'MV Boli, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#501616;fill-opacity:1;stroke-width:1.00522"
+         id="flowPara127178">amount of money withdrawn here is greater than the </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.47333px;line-height:100%;font-family:'MV Boli';-inkscape-font-specification:'MV Boli, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#501616;fill-opacity:1;stroke-width:1.00522"
+         id="flowPara127176">balance here, then this error message will be generated</flowPara></flowRoot>
+    <text
+       inkscape:transform-center-y="-3.9467557e-05"
+       inkscape:export-ydpi="302.28201"
+       inkscape:export-xdpi="302.28201"
+       inkscape:export-filename="C:\Users\Richard Burd\Desktop\bitmap.png"
+       inkscape:transform-center-x="4.7638461"
+       id="text3154-1-3-6-9-5-0-9-1-16-5-8-9-1-6-1-5-3-1-4-1-2-1-4-7-0-8-1-7-1-5-0-6-0-98-6-0-8-5-2-5-9-6-0-0-5-9-8-6-0-7-7-59-7-9-7-3-2-2-4-8-8-9-7-1-8-2-5-2-3-8-31-8-3-9-9-0-1-2-8-2-8-7-46-8-3-0-3-8-6-3-5-1-0-1-2-9-5-3-5-6-1-1-0-6-0-8-8-2-23-5-9-7"
+       y="117.0717"
+       x="426.70386"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.16417px;line-height:0%;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.16417px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         y="117.0717"
+         x="426.70386"
+         sodipodi:role="line"
+         id="tspan11967-1-7-06">0: string: foo</tspan></text>
+    <text
+       inkscape:transform-center-y="-3.9467557e-05"
+       inkscape:export-ydpi="302.28201"
+       inkscape:export-xdpi="302.28201"
+       inkscape:export-filename="C:\Users\Richard Burd\Desktop\bitmap.png"
+       inkscape:transform-center-x="4.7638461"
+       id="text3154-1-3-6-9-5-0-9-1-16-5-8-9-1-6-1-5-3-1-4-1-2-1-4-7-0-8-1-7-1-5-0-6-0-98-6-0-8-5-2-5-9-6-0-0-5-9-8-6-0-7-7-59-7-9-7-3-2-2-4-8-8-9-7-1-8-2-5-2-3-8-31-8-3-9-9-0-1-2-8-2-8-7-46-8-3-0-3-8-6-3-5-1-0-1-2-9-5-3-5-6-1-1-0-6-1-5-3-8-4-6-5-2"
+       y="108.67616"
+       x="423.88208"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.16417px;line-height:0%;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.16417px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         y="108.67616"
+         x="423.88208"
+         sodipodi:role="line"
+         id="tspan7501-2-0-5-9-4-6-6-9-3-5">DEPLOY &amp; RUN TRANSACTIONS</tspan></text>
     <text
        inkscape:transform-center-y="-3.9467557e-05"
        inkscape:export-ydpi="302.28201"
