@@ -9,7 +9,7 @@ contract Wallet {
   address payable public owner;
 
   constructor() public payable {
-
+    owner = msg.sender;
   }
 
   function deposit() public payable {
@@ -17,7 +17,7 @@ contract Wallet {
   }
 
   function notPayable() public {
-
+    // cannot be paid
   }
 
   modifier onlyOwner() {
