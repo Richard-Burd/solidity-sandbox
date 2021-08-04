@@ -27,5 +27,15 @@ contract Wallet {
 
   function withdraw(uint _amount) public onlyOwner {
     owner.transfer(_amount);
+    emit Withdraw(_amount, address(this).balance);
+  }
+
+  function transferEther(address payable _to, uint _amount) public onlyOwner {
+    _to.transfer(_amount);
+    emit Transfer(_to, _amount, address(this).balance);
+  }
+
+  function getBalance() public view returns (uint) {
+    return address(this).balance;
   }
 }
