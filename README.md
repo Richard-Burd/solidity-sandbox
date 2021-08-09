@@ -9,4 +9,4 @@ This repo [here](https://github.com/Richard-Burd/social-network) has an illustra
 5. React
 6. Metamask
 
-Download the PDF and view it in Google Chrome or Microsoft Bing; Acrobat & Firefox will not display it properly.
+Download the PDF and view it in Google Chrome or Microsoft Edge; Acrobat & Firefox will not display it properly.
