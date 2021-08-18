@@ -3,8 +3,6 @@ This *Solidity Illustrated* cheat sheet is under construction and will look like
 
 You can download the PDF of this cheat-sheet [here](https://drive.google.com/uc?id=14xrrOQwRrBVs7flUg1MeC_axKQZRG9lD&export=download)
 
-You can
-
 This repo [here](https://github.com/Richard-Burd/social-network) has an illustration of a full-stack application that includes the following:
 1. Truffle
 2. Chai
