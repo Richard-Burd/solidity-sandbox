@@ -1,4 +1,4 @@
-pragma solidity ^0.5.11;
+pragma solidity ^0.5.11; // older version using deprecated syntax
 
 contract Callee {
   uint public x;
@@ -28,19 +28,15 @@ contract Caller {
   }
 
   function setXAndSendEther(Callee _callee, uint _x) public payable {
-    // after verifying e.thing works in the Remix IDE when contracts are deployed,
-    // change the version of this file to: pragma solidity ^0.8.7
-    // then update the line below:
-    // .......... value) = _callee.setXAndSendEther{value: msg.value}(_x); ... note the "_x" may s.how have to go in the {}
-    (uint x, uint value) = _callee.setXAndSendEther.value(msg.value)(_x);
+    (uint x, uint value) = _callee.setXAndSendEther.value(msg.value)(_x); // deprecated syntax
   }
 }
 
-//contract Foo {
-//  uint public x;
-//
-//  function setX(uint _x) public returns (uint) {
-//    x = _x + 1;
-//    return 0;
-//  }
-//}
+contract Foo {
+  uint public x;
+
+  function setX(uint _x) public returns (uint) {
+    x = _x + 1;
+    return 0;
+  }
+}
