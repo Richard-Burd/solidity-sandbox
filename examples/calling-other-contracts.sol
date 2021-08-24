@@ -18,7 +18,7 @@ contract Callee {
 }
 
 contract Caller {
-  function setX(Callee _callee, uint _x) public {
+  function establishX(Callee _callee, uint _x) public {
       uint x = _callee.setX(_x);
   }
 
